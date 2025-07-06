@@ -5,7 +5,8 @@ A passionate full-stack developer from India 🇮🇳
 🔭 I’m currently working on BLOG WITH AI Project 
 🌱 I’m currently learning **AWS Cloud**, **Lambda Functions**. 
 👨‍💻 Most of my projects are available at: [github.com/SrashtiGupta498](https://github.com/SrashtiGupta498)  
-📝 I occasionally write technical blogs and articles on **payment gateway integration, APIs, and real-world coding**  
+📝 I occasionally write technical blogs and articles on **payment gateway integration, APIs, and real-world coding** 
+https://dev.to/srashtigupta
 💬 Ask me about **Node.js, React, MongoDB, Payment Integrations (Razorpay, Paytm, Cashfree), REST APIs**  
 📫 Reach me at **srashti.gupta.maina@gmail.com**  
 
