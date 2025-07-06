@@ -12,7 +12,7 @@ A passionate full-stack developer from India 🇮🇳
 ---
 
 ### 🌐 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/srashtigupta/)  
+- [LinkedIn](https://www.linkedin.com/in/srashti-gupta-a939b4201/)
 - [GitHub](https://github.com/SrashtiGupta498)  
 
 ---
