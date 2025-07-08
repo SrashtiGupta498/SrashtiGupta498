@@ -3,7 +3,7 @@
 A passionate full-stack developer from India 🇮🇳
 
 🔭 I’m currently working on BLOG WITH AI Project 
-🌱 I’m currently learning **AWS Cloud**, **Lambda Functions**. 
+🌱 I’m currently learning  **TypeScript**  , **AWS Cloud**, . 
 👨‍💻 Most of my projects are available at: [github.com/SrashtiGupta498](https://github.com/SrashtiGupta498)  
 📝 I occasionally write technical blogs and articles on **payment gateway integration, APIs, and real-world coding** 
 https://dev.to/srashtigupta
